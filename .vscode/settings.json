@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\Users\\DELL\\Downloads\\RL_Project_Report_Template.aux": true,
+        "**/c:\\Users\\DELL\\Downloads\\RL_Project_Report_Template.log": true,
+        "**/c:\\Users\\DELL\\Downloads\\RL_Project_Report_Template.gz": true,
+        "**/c:\\Users\\DELL\\Downloads\\RL_Project_Report_Template.out": true
+    }
+}
