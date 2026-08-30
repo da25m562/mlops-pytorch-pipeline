@@ -3,7 +3,7 @@ model:
   num_classes: 10
 
 training:
-  epochs: 10
+  epochs: 1                   # Kepping it small due to time constraint
   batch_size: 64
   learning_rate: 0.001
   early_stopping_patience: 3
